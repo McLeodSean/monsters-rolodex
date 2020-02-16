@@ -3,7 +3,18 @@
   border: none;
   outline: none;
   padding: 10px;
-  width: 150px;
   line-height: 30px;
   margin-bottom: 30px;
+  background: #E0E5EC;
+  padding: 25px;
+  width: 250px;
+  box-shadow: -9px -9px 16px #f2f2f2, 9px 9px 16px #A3B1C6;
+  border-radius: 5px;
+  color: #7489a9;
+  font-size: 1.1em;
+  font-family: 'Roboto Mono';
+}
+
+.search:active {
+  box-shadow: inset -9px -9px 16px #f2f2f2, inset 9px 9px 16px #A3B1C6;
 }
