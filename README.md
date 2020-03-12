@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Monsters Rolodex
+
+A quick project to grasp the basics of React. 
+
+This project was made during Andrei Neagoie & Yihua Zhang's 'Complete React Developer in 2020' Udemy course: https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
 
 ## Available Scripts
 
